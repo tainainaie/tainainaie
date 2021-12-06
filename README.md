@@ -1,7 +1,7 @@
 ## Olá, eu sou a Tainá Inaiê! 👋
-<div style="display: inline_block">
+<div style="display: inline_block"> 
   
-- 👩‍🎓 **Ensino:** Estudante de Ciência da Computação, atualmente estou cursando o 8º semestre.
+- 🎓 **Ensino:** Estudante de Ciência da Computação, atualmente estou cursando o 8º semestre.
 
 - 🎯 **Interesses:** HTML, CSS, Javascript, PHP.
 
@@ -22,7 +22,7 @@
   
 ## Meus contatos 📱 
 <p align="center">
-<a href="https://github.com/teteusAraujo"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/tainainaie"></a>
+<a href="https://github.com/tainainaie"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/tainainaie"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/tainainaie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
