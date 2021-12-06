@@ -19,15 +19,6 @@
   <img align="center" alt="taina-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
-
-## Minhas atividades no Github 🚀
-<div style="display: inline_block"><br>
-<div align="center">
-  <a href="https://github.com/taina.inaie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainainaie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainainaie&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
   
 ## Meus contatos 📱 
 <p align="center">
@@ -39,3 +30,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto:taina.inaie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
+## Minhas atividades no Github 🚀
+<div style="display: inline_block" align="center"><br>
+  <a href="https://github.com/taina.inaie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainainaie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainainaie&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
