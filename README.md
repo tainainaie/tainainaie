@@ -38,4 +38,7 @@
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainainaie&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+  ![Snake animation](https://github.com/tainainaie/tainainaie/blob/output/github-contribution-grid-snake.svg)
+
   
