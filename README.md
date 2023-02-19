@@ -1,23 +1,12 @@
 ## Olá, eu sou a Tainá Inaiê! 👋
 <div style="display: inline_block"> 
   
-- 🎓 **Ensino:** Estudante de Ciência da Computação, atualmente estou cursando o 8º semestre.
+- 🎓 **Ensino:** Superior em Ciência da Computação
 
-- 🎯 **Interesses:** HTML, CSS, Javascript, PHP.
-
-- 🤓 **Sonho:** Ser desenvolvedora front-end.
-
+- 🎯 **Interesses:** Zabbix, Grafana, BpMonitor, Docker, Kubernete, Google  Cloud Plataform
+- 🤓 **Sonho:** Trabalhar com Cloud
 <br>
 
-## Minhas Skills :nerd_face:
-  
-<div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="taina-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="taina-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="taina-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="taina-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 <br>
 ## Meus contatos 📱 
 <p align="center">
