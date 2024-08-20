@@ -3,8 +3,8 @@
   
 - 🎓 **Ensino:** Superior em Ciência da Computação
 
-- 🎯 **Interesses:** Zabbix, Grafana, BpMonitor, Docker, Kubernete, Google  Cloud Plataform
-- 🤓 **Sonho:** Trabalhar com Cloud
+- 🎯 **Interesses:** Java, React, Node e DevOps
+- 🤓 **Sonho:** Ser uma ótima Desenvolvedora
 <br>
 
 <br>
