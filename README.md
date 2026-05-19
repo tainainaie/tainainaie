@@ -1,10 +1,9 @@
 ## Olá, eu sou a Tainá Inaiê! 👋
 <div style="display: inline_block"> 
   
-- 🎓 **Ensino:** Superior em Ciência da Computação
-
-- 🎯 **Interesses:** Java, React, Node e DevOps
-- 🤓 **Sonho:** Ser uma ótima Desenvolvedora
+- 🎓 **Ensino:** Bacharel em Ciência da Computação
+- 🎯 **Interesses:** Cybersegurança
+- 🤓 **Sonho:** Ser uma ótima naquilo que faço!
 <br>
 
 <br>
